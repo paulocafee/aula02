@@ -21,13 +21,13 @@ if (num2 > num1) {
     }
 }
 
-// num3 > num1
-// num3 > num2
 if (num3 > num1) {
     if (num3 > num2) {
         console.log("O terceiro valor é o maior: " + num3)
     }
 }
+
+// aqui eu tive uma alteração!!!
 
 
 
